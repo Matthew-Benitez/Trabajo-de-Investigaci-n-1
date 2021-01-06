@@ -1,4 +1,4 @@
-# Aplicaciones en Simplificaciones de Circuitos
+# Aplicaciones de las Simplificaciones de Circuitos
 1.  OBJETIVOS
     - Objetivo General:
       - Leer y comprender el capítulo 8 del libro Principios de Circuitos Eléctricos de Floyd para aprender acerca los Teoremas de Circuitos y Conversiones.
