@@ -1,4 +1,4 @@
-# Aplicaciones de las Simplificaciones de Circuitos
+# TEOREMAS DE SIMPLIFICACIONES DE CIRCUITOS
 1.  OBJETIVOS
     - Objetivo General:
       - Comprender y aplicar los Teoremas de Circuitos y Conversiones para las simplificaciones de circuitos.
