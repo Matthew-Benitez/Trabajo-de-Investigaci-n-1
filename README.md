@@ -7,3 +7,8 @@
       - Erudir acerca de la abreviación de circuitos mediante el teorema de Thevenin y el teorema de Norton.
       - Aprender a convertir circuitos Δ a Y y viceversa para la reducción de circuitos de Wheatstone.
 2. MARCO TEÓRICO
+
+![image](https://user-images.githubusercontent.com/75439689/103850839-4f326d80-5076-11eb-9972-5f02ca0c8417.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103850956-93257280-5076-11eb-85b0-4b9bd7eb125f.png)
+
