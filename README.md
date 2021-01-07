@@ -42,29 +42,29 @@
    
    La simulación demuestra primero un pequeño circuito en el cual se tiene un voltaje de fuente de 30 V unido a una resistencia de 50 ohm. Lo que se quiere demostrar es que se ha calculado de manera correcta la corriente total haciendo su debidad transformación y que después es posible cambiar la fuente de voltaje por una fuente de corriente. Sin embargo el simulador no tiene el recurso de fuentes de corriente, por lo que en el simulador solo se demuestra que se obtuvieron los resultados deseados.
  
- 8. APORTACIONES
+ 6. APORTACIONES
  
-     8.1.1. Circuito del Ejercicio #7
+     6.1.1. Circuito del Ejercicio #7
      
      ![image](https://user-images.githubusercontent.com/75439689/103856920-77749900-5083-11eb-8413-e69586d62f3a.png)
      
-     8.1.2. Cálculo de Corriente de la Resistencia 5 de la Primera Fuente
+     6.1.2. Cálculo de Corriente de la Resistencia 5 de la Primera Fuente
      
      ![image](https://user-images.githubusercontent.com/75439689/103857023-ab4fbe80-5083-11eb-8615-4de8ff5cf531.png)
      
-     8.1.3. Cálculo de Corriente de la Resistencia 5 de la Segunda Fuente
+     6.1.3. Cálculo de Corriente de la Resistencia 5 de la Segunda Fuente
      
      ![image](https://user-images.githubusercontent.com/75439689/103857081-c91d2380-5083-11eb-874d-eeb936b680f4.png)
      
-     8.1.4. Cálculo de Corriente Total en la Resistencia 5
+     6.1.4. Cálculo de Corriente Total en la Resistencia 5
      
      ![image](https://user-images.githubusercontent.com/75439689/103857136-e4882e80-5083-11eb-931e-cd8aececae4d.png)
      
-     8.2.1. Circuito con Fuente de Voltaje
+     6.2.1. Circuito con Fuente de Voltaje
      
      ![image](https://user-images.githubusercontent.com/75439689/103858703-d4258300-5086-11eb-8fdd-31b8d0a0ea06.png)
      
-     8.2.2. Circuito Calculado la Hipotética Fuente de Corriente
+     6.2.2. Circuito Calculado la Hipotética Fuente de Corriente
      
      ![image](https://user-images.githubusercontent.com/75439689/103858775-eb647080-5086-11eb-8aeb-82eb8085bafc.png)
 
