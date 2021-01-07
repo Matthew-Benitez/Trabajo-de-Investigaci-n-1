@@ -106,8 +106,11 @@
 7. Conclusiones
 
       - Como se pudo observar en las simulaciones, el teorema de superposición es muy importante para los análisis de circuitos, ya que estos son herramientas de cálculo que ayudan a los ingenieros a determinar si hay fallas o si hay más factores que influyen dentro de un elemento, ya que cada parte de un circuito necesita tener una corriente y voltaje determinado para su respectivo funcionamiento. Un circuito debe estar equilibrado, y este teorema confabula con los ingenieros para lograr un sistema ideal en la realidad.
+      - Mediante diversos análisis en circuitos se puede llegar a deducir teoremas que ayudan a simplificar un circuito con el fin de resolverlo con mayor facilidad. En este caso, se han podido revisar dos teoremas de simplificación de circuitos, los cuales son el teorema de Thevenin y el teorema de Norton. Ambos son muy similares ya que consisten en dejar el circuito únicamene con una fuente, una resistencia equivalente y la resistencia de carga de la cual se desea hallar su voltaje o corriente. La aplicación de ambos teoremas se las puede realizar cuando un circuito parezca complejo, el cual se reduciría considerablemente para facilitar sus cálculos.
 
 8. Bibliografía
+
+     - Floyd, T.L.(2007). Principios de circuitos eléctricos (Octava ed.).
 
 
 
