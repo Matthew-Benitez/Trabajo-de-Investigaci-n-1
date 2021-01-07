@@ -14,6 +14,40 @@
 
 3. DESARROLLO
 
+![image](https://user-images.githubusercontent.com/75439689/103861496-83645900-508b-11eb-80e2-0663cd268aaa.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861508-895a3a00-508b-11eb-92c5-4334abfdbaad.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861515-8e1eee00-508b-11eb-800b-7a45468d3092.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861519-91b27500-508b-11eb-921e-8f66cc1ceab8.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861541-9e36cd80-508b-11eb-89bf-f5dc32e6e584.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861551-a0992780-508b-11eb-828f-e5a4cea54bc4.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861562-a2fb8180-508b-11eb-89fc-4165dfa7fc84.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861570-a5f67200-508b-11eb-9a48-9b2e6ea4ac53.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861579-a858cc00-508b-11eb-967e-392765635175.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861586-aabb2600-508b-11eb-85a5-6f58bdad77c8.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861594-adb61680-508b-11eb-8724-9369b98db18b.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861602-b0187080-508b-11eb-8088-47975b5dc799.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861609-b27aca80-508b-11eb-933f-dec35bd940b8.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861692-d3432000-508b-11eb-8071-87c12e109ba7.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861697-d63e1080-508b-11eb-8c23-d0b9d9613da6.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861701-d9390100-508b-11eb-84e2-fd6091083a80.png)
+
+![image](https://user-images.githubusercontent.com/75439689/103861710-dc33f180-508b-11eb-93a7-56b9ae586c4d.png)
+
 4. LISTA DE COMPONENTES
 
     4.1 Ejercicio #7
