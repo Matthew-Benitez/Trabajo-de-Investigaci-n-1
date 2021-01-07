@@ -105,7 +105,7 @@
 
 7. Conclusiones
 
-        - Como se pudo observar en las simulaciones, el teorema de superposición es muy importante para los análisis de circuitos, ya que estos son herramientas de cálculo que ayudan a los ingenieros a determinar si hay fallas o si hay más factores que influyen dentro de un elemento, ya que cada parte de un circuito necesita tener una corriente y voltaje determinado para su respectivo funcionamiento. Un circuito debe estar equilibrado, y este teorema confabula con los ingenieros para lograr un sistema ideal en la realidad.
+      - Como se pudo observar en las simulaciones, el teorema de superposición es muy importante para los análisis de circuitos, ya que estos son herramientas de cálculo que ayudan a los ingenieros a determinar si hay fallas o si hay más factores que influyen dentro de un elemento, ya que cada parte de un circuito necesita tener una corriente y voltaje determinado para su respectivo funcionamiento. Un circuito debe estar equilibrado, y este teorema confabula con los ingenieros para lograr un sistema ideal en la realidad.
 
 8. Bibliografía
 
