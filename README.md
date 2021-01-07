@@ -61,7 +61,7 @@
 
 5. EXPLICACIÓN
 
-  5.1.- Para explicar más a fondo uno de los teoremas se hará un análisis dentro del ejericio #7.
+     5.1.- Para explicar más a fondo uno de los teoremas se hará un análisis dentro del ejericio #7.
 
    ![image](https://user-images.githubusercontent.com/75439689/103856872-6592f600-5083-11eb-8542-0dac6353e98b.png)
 
@@ -73,7 +73,7 @@
 
    Para finalizar luego de observar las corrientes de ambas fuentes de voltaje se suman ambas y daría como resultado final la corriente total de la resistencia 5.
    
-   5.2.- Para explicar el ejercicio #1 se analiza con respecto a la conversión de fuentes de voltaje.
+      5.2.- Para explicar el ejercicio #1 se analiza con respecto a la conversión de fuentes de voltaje.
    
    La simulación demuestra primero un pequeño circuito en el cual se tiene un voltaje de fuente de 30 V unido a una resistencia de 50 ohm. Lo que se quiere demostrar es que se ha calculado de manera correcta la corriente total haciendo su debidad transformación y que después es posible cambiar la fuente de voltaje por una fuente de corriente. Sin embargo el simulador no tiene el recurso de fuentes de corriente, por lo que en el simulador solo se demuestra que se obtuvieron los resultados deseados.
  
